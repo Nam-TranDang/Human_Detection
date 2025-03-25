@@ -1,0 +1,6 @@
+
+train: /kaggle/working/VisDrone/VisDrone2019-DET-train/images
+val: /kaggle/working/VisDrone/VisDrone2019-DET-val/images
+test: /kaggle/working/VisDrone/VisDrone2019-DET-test-dev/images
+nc: 1
+names: ['people']
