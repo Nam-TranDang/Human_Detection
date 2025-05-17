@@ -1,4 +1,4 @@
-Computer Vision Yolo11 - Object Detection
+## Computer Vision Yolo11 - Object Detection
 Description: Yolo11Nano from Ultralytics
 
 Dataset: Visdrone from Ultralytics
