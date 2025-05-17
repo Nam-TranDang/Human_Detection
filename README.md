@@ -1,9 +1,10 @@
 ## Computer Vision Yolo11 - Object Detection
+
 Description: Yolo11Nano from Ultralytics
 
 Dataset: Visdrone from Ultralytics
----
-## How to run:
+
+## How to train and run pretrained model:
 ###  Step 1: configure the environment
 
 python -m venv .venv (Shell)
